@@ -28,11 +28,11 @@
 
 ---
 
-<!-- <details>
-  <summary>:zap: Github Stats</summary> -->
+<details>
+  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Mubasir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdmub0587&show_icons=true&hide_border=true" />
 
-<!-- </details> -->
+</details>
 
 [linkedin]: https://www.linkedin.com/in/mdmubasir1998/
