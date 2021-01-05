@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Computer Vision aka CV project
 - 🌱 I’m currently learning ML and AI
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to see dreams 🤣
 
 ### Connect with me:
